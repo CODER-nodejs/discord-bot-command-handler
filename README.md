@@ -21,8 +21,9 @@ CODER
 
 # Depencies
 
-discord.js
-fs@latest
+```discord.js```
+
+```fs@latest```
 
 # Installation
 
