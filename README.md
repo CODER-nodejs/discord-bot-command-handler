@@ -9,3 +9,12 @@ Command handler is basically the one wich helps you to have custom JS files on a
 
 
 **Disclaimer**: Be sure to watch my other repository named: Discord Bot tutorial
+
+
+# LICENSE
+
+License is under MIT
+
+# Author
+
+CODER
