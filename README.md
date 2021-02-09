@@ -18,3 +18,12 @@ License is under MIT
 # Author
 
 CODER
+
+# Depencies
+
+discord.js
+fs@latest
+
+# Installation
+
+```npm i discord.js fs@latest```
