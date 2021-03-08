@@ -1,7 +1,7 @@
 module.exports = {
     name: 'ping',
     description: "this is a ping command!",
-    execute(message, args){
+    execute(client, message, args){
 const apiPing = Math.round(message.client.ping);
 const responseTime = Math.round(Date.now() - message.createdTimestamp); 
 
