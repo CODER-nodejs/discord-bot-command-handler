@@ -14,7 +14,7 @@ for(const file of commandFiles){
     client.commands.set(command.name, command);
 }
  
- //This command prompts if bot is online
+ //This command prompts then the bot is online
 client.once('ready', () => {
     console.log('The bot is online :)');
 });
